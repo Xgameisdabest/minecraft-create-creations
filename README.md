@@ -1,3 +1,5 @@
+Steps for how to deploy a schematic for minecraft create: https://github.com/Creators-of-Create/Create/wiki/Loading-a-Schematic <BR>
+### !!! Visit the releases section for the schematics
 For minecraft version 1.21.1 <BR>
 Modpacks: <BR>
 - Aileron
