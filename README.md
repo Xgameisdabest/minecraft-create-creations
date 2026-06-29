@@ -1,2 +1,165 @@
-# minecraft-create-creations
-stuff that i work on in minecraft create mod
+For minecraft version 1.21.1 <BR>
+Modpacks: <BR>
+- Aileron
+- Alloyed
+- Amendments
+- Another Furniture
+- AppleSkin
+- Architectury
+- Armor Statues
+- Async Logger
+- AsyncParticles
+- Axes Are Weapons
+- BadOptimizations
+- Balm
+- Better Biome ReBlend
+- Bookshelf
+- Brick and Mortar
+- Carry On
+- Carry On \+ Create Aeronautics Compat
+- Cerulean
+- Chat Heads
+- Cloth Config v15 API
+- Companion
+- Concurrent Chunk Management Engine
+- Configured Defaults
+- Connector Extras
+- Constant Music
+- Continuity
+- Controlling
+- CoroUtil
+- Create
+- Create Aeronautics
+- Create Aeronautics: Encased Fluid Pipes
+- Create Big Cannons
+- Create Bits 'n' Bobs
+- Create Compact Transmission
+- Create Crafts & Additions
+- Create Deco
+- Create Diesel Generators
+- Create Shuffle Filter
+- Create Slice & Dice
+- Create Tracks\+
+- Create: Ballast
+- Create: Bells & Whistles
+- Create: Cardboarded Conveynience
+- Create: Central Kitchen
+- Create: Components and Additions
+- Create: Connected
+- Create: Copycats\+
+- Create: Dragons Plus
+- Create: Enchantment Industry
+- Create: Factory
+- Create: Framed
+- Create: Pattern Schematics
+- Create: Prismatic Shine
+- Create: Smart Bounds
+- Create: Steam 'n' Rails 1\.21\.1
+- Cut Through
+- Detail Armor Bar Reconstructed
+- Ding
+- DistractingTrims
+- Drive By Wire
+- Drive By Wire \- Typewriter
+- Dynamic FPS
+- EMI
+- EMI Loot
+- EMI\+\+
+- Easy Anvils
+- Eating Animation
+- Ecologics
+- End's Delight
+- Entity Model Features
+- Entity Texture Features
+- EntityCulling
+- Explosive Enhancement
+- Extended Hotbar
+- Extended Wrenches
+- Farmer's Delight
+- Fast Noise Mod
+- Fast Paintings
+- Ferrite Core
+- Flerovium
+- Forgified Fabric API
+- Fzzy Config
+- GPUTape
+- GroovyModLoader
+- ImmediatelyFast
+- Iris
+- Ixeris
+- Kerria
+- Kiwi Library
+- Konkrete
+- Kotlin for Forge
+- LambDynamicLights
+- Lithium
+- Lodestone
+- Lootr
+- M\.R\.U
+- Map Atlases
+- Miners Delight
+- Model Gap Fix
+- ModernFix
+- Moonlight Lib
+- More Culling
+- More Sounds
+- Mouse Tweaks
+- Movable Tracks
+- My Nether's Delight
+- Neo Bee Fix
+- NetherPortalFix
+- Netherite Horse Armor
+- Not Enough Recipe Book
+- NotEnoughAnimations
+- OctoLib
+- Particle Effects
+- Polytone
+- Potion Stacks
+- PrickleMC
+- Progress Peek
+- Puzzles Lib
+- Quark
+- Reconnectible Chains
+- Reese's Sodium Options
+- Reliable Advancements
+- Resourcefulconfig
+- Resourcify
+- Ritchie's Projectile Library
+- Sable
+- Sable Beyond
+- Sable: Physics Compat
+- Scholar
+- Seamless Sleep
+- Searchables
+- Simple Voice Chat
+- Sinytra Connector
+- SmartBlockPlacement
+- Smarter Farmers
+- Smooth Swapping
+- Sodium
+- Sodium Extra
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sounds
+- Status Effect Bars
+- Structure Layout Optimizer
+- Supplementaries
+- TooManyRecipeViewers
+- TrashSlot
+- TxniLib
+- Updating World Icon
+- YUNG's API
+- YUNG's Better Desert Temples
+- YUNG's Better Dungeons
+- YUNG's Better Nether Fortresses
+- YUNG's Better Ocean Monuments
+- YUNG's Better Strongholds
+- YUNG's Extras
+- Yeetus Experimentus
+- YetAnotherConfigLib
+- Zeta
+- Zume
+- e4mc
+- eg\-inventory\-blur
+- iChunUtil
+- quick\-pack
